@@ -1,3 +1,5 @@
+// Program(12)-> Write a program to check wheather given number is positive , negative, or zero.
+
 #include<stdio.h>
 int main()
 {
