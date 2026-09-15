@@ -1,3 +1,5 @@
+// Program(11)-> Writen a program to check wheather given number is even or odd.
+
 #include <stdio.h>
 
 int main()
